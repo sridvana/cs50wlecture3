@@ -1,0 +1,1 @@
+export DATABASE_URL=postgresql://sridharvanaparthi:srielspectra1@localhost:5432/lecture3
